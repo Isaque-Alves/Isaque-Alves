@@ -8,10 +8,10 @@
   - 👯 I'm looking to collaborate on web projects
   - 🤔 I'm looking for help with technologies like ReactJs and React Native.
 <br/>
-- **Competitive Programming**
-  - VueJS ❤️
-  - C ++
-  - Some C#
+- **Curiosities**
+  - 🔭 I am currently working at CompJunior
+  - 👯 I'm looking to collaborate on web projects
+  - 🤔 I'm looking for help with technologies like ReactJs and React Native.
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
