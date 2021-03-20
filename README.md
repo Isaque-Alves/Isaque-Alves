@@ -4,14 +4,14 @@
  <br/>
 ## About me :computer:
 - **Curiosities**
-  - 🔭 I am currently working at CompJunior
-  - 👯 I'm looking to collaborate on web projects
-  - 🤔 I'm looking for help with technologies like ReactJs and React Native.
+	- 🔭 I am currently working at CompJunior
+ 	- 👯 I'm looking to collaborate on web projects
+ 	- 🤔 I'm looking for help with technologies like ReactJs and React Native.
 
 - **Competitive Programming**
-  - VueJS ❤️
-  - C ++
-  - Some C#
+ 	- VueJS ❤️
+ 	- C ++
+ 	- Some C#
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
