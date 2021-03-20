@@ -7,7 +7,7 @@
   - 🔭 I am currently working at CompJunior
   - 👯 I'm looking to collaborate on web projects
   - 🤔 I'm looking for help with technologies like ReactJs and React Native.
-<br/>
+
 - **Curiosities**
   - 🔭 I am currently working at CompJunior
   - 👯 I'm looking to collaborate on web projects
