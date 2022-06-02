@@ -1,5 +1,5 @@
 
-### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world! &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="24px">
+### <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Hi.gif" width="29px"> Hello world! &nbsp;<img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Earth.gif" width="10px">
 <em>Computer Science student at the Federal University of Lavras - UFLA, with technical teaching in computer science at the IFMG- Campus Ribeirão das Neves. Always interested in absorbing knowledge to become a better and better professional to solve the world's problems. I firmly believe that **no amount of knowledge <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Rocket.gif" height="18px"> is enough knowledge**. 🧠</em>
  <br/>
 ## About me :computer:
