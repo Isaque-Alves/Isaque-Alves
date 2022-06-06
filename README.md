@@ -10,8 +10,8 @@
 
 - **Competitive Programming**
  	- VueJS ❤️
- 	- C ++
- 	- Some C#
+ 	- ReactJs
+ 	- React Native
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
@@ -22,8 +22,7 @@
 <br/>
 
 ## 🌱 I’m currently learning ...
-- **ReactJs**
-- **React Native**
+- **Laravel**
 - **NodeJs**
 - **Express**
 - **English language**
