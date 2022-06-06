@@ -4,21 +4,20 @@
  <br/>
 ## About me :computer:
 - **Curiosities**
-	- 🔭 I am currently working at CompJunior
+	- 🔭 I am currently working at GAFIT as a FullStack developer and at Zeester as a front-end developer.
  	- 👯 I'm looking to collaborate on web projects
- 	- 🤔 I'm looking for help with technologies like ReactJs and React Native.
-
-- **Competitive Programming**
- 	- VueJS ❤️
- 	- ReactJs
- 	- React Native
+ 	- 🤔 I'm looking for help with technologies like ReactJs, React Native and Laravel.
 
 <img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
 - **Web Development**
 	- HTML, CSS and Javascript :white_check_mark:
 	- Bootstrap
+	- VueJS
+ 	- ReactJs
+ 	- React Native
 	- MySQL
+	
 <br/>
 
 ## 🌱 I’m currently learning ...
